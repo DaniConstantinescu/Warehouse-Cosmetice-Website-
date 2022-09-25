@@ -1,0 +1,43 @@
+.formular{
+    width: 98vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+thead{
+    background-color: #ececec;
+}
+
+.numere{
+    width: 250px;
+    text-align: center;
+}
+
+.adauga{
+    
+    margin-left: 27vw;
+    top: 17vh;
+    position:absolute;
+    width: 46vw;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    background-color: #f2f2f2;
+
+    display: none;
+}
+
+.butAdauga{
+    width: 40em;
+    margin: 0 auto;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    width: 40em;
+    margin-left: 7.5em;
+    margin-bottom: 20px;
+}
+
+.grupBut{
+    width: 47.5em;
+}
